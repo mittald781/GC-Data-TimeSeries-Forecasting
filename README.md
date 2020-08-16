@@ -1,1 +1,2 @@
-# GC-Data-TimeSeries-Forecasting
+# Data Analytics 1
+ GC Data Project Time Series
